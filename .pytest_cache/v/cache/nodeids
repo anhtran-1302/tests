@@ -1,0 +1,7 @@
+[
+  "raw.py::test_get_user",
+  "test_post_request_template.py::test_create_template_bad_request",
+  "test_post_request_template.py::test_create_template_forbidden",
+  "test_post_request_template.py::test_create_template_not_found",
+  "test_post_request_template.py::test_create_template_successful"
+]

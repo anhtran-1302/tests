@@ -1,0 +1,6 @@
+{
+  "test_post_request_template.py::test_create_template_successful": true,
+  "test_post_request_template.py::test_create_template_bad_request": true,
+  "test_post_request_template.py::test_create_template_forbidden": true,
+  "test_post_request_template.py::test_create_template_not_found": true
+}
